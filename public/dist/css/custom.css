@@ -1,0 +1,16 @@
+/* Custom css */
+.main-sidebar {
+    background-color: #d5072a !important;
+
+    .d-block {
+        font-weight: 500 !important;
+    }
+}
+
+.btn btn-search {
+    background-color: #530a0a !important;
+}
+
+.font-weight-light {
+    font-weight: 500 !important;
+}
